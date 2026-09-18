@@ -1,0 +1,29 @@
+# Quartus Prime generated/compilation artifacts
+db/
+incremental_db/
+output_files/
+simulation/
+*.qws
+*.done
+*.rpt
+*.summary
+*.smsg
+*.pin
+*.sof
+*.pof
+*.jdi
+*.qarlog
+*.qarreport
+
+# ModelSim / simulation artifacts
+*.wlf
+transcript
+msim_transcript
+rtl_work/
+
+# Editor/backup files
+*.bak
+*.bak[0-9]*
+
+# Bundled third-party tools (not part of the design)
+UrJTAG/
