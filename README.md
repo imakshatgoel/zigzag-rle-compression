@@ -1,6 +1,6 @@
 # Zigzag RLE Compression
 
-*Wadhwani Electronics Laboratory, Department of Electrical Engineering, IIT Bombay*
+*Wadhwani Electronics Laboratory, Department of Electrical Engineering, IIT Bombay · November 2025*
 
 A hardware implementation of image-block compression using **zigzag reordering + run-length encoding (RLE)**, written in VHDL and targeting an Intel/Altera MAX10 FPGA (Quartus Prime + ModelSim).
 
